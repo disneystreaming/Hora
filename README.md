@@ -1,5 +1,3 @@
-# :warning::no_entry::construction: Please do not merge open-source branch :warning::no_entry::construction:
-
 # Hora
 
 > "*Hora*: In Greco-Roman mythology, any one of the personifications of the seasons and goddesses of natural order; in
