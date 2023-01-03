@@ -1,0 +1,18 @@
+{
+    "type": "object",
+    "properties": {
+        "mission": {
+            "type": "string"
+        },
+        "crew": {
+            "type": "array",
+            "items" : {
+                "type": "string"
+            }
+        },
+        "rocket": {
+            "enum": ["Titan II", "Saturn V", "Falcon Heavy", "Falcon 9"] 
+        }
+    },   
+    "additionalProperties": false
+}
